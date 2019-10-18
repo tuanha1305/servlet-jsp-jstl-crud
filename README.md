@@ -19,5 +19,6 @@ public void init() {
    dao = new DAO("jdbc:mysql://localhost/crud_servlet_jsp", "root", "");
 }
 ```
-Read tutorial [Servlet JSP JSTL JDBC Create Read Update Delete (CRUD) - Quản lý sinh viên](http://127.0.0.1:4000/2019/10/02/servlet-jsp-jstl-jdbc-example.html)
+Read tutorial [Servlet JSP JSTL JDBC Create Read Update Delete (CRUD) - Quản lý sinh viên](https://tuanictu97.github.io/2019/10/02/servlet-jsp-jstl-jdbc-example.html)
+
 Thanks for watching !
